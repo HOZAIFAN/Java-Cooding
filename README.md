@@ -1,18 +1,21 @@
 This repository consists of my complete learning journey in Java Programming, covering:
-✅ Java Basics
+
+Java Basics
 Introduction to Java
 Variables, Data Types, and Operators
 Conditional Statements and Loops
 Arrays and Strings
 Functions and Exception Handling
-✅ Java OOPs (Object-Oriented Programming)
+
+Java OOPs (Object-Oriented Programming)
 Classes and Objects
 Constructors
 Inheritance
 Polymorphism
 Encapsulation & Abstraction
 Interfaces and Abstract Classes
-✅ Java DSA (Data Structures & Algorithms)
+
+Java DSA (Data Structures & Algorithms)
 Arrays and Linked Lists
 Stacks and Queues
 Trees and Binary Search Trees
